@@ -10,6 +10,7 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
   padding: 10px 20px;
   background-color: #4CAF50;
   color: white;
+  .Button {
   border: none;
   text-align: center;
   text-decoration: none;
