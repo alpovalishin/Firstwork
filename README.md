@@ -1,12 +1,11 @@
 # Firstwork
 Your first tasK: create a new repository, create a README.nd file and upload another File.
 You can find a playlist of videos about git by [link](https://www.youtube.com/watch?v=y5wxl4pBI_A)
-## Front-End Developer stack:
+## Front_end Developer stack:
 * HTML
 ﻿﻿* CSS
 ﻿﻿* JavaScript
 /* Styles for a basic button */
-.Button {
   padding: 10px 20px;
   background-color: #4CAF50;
   color: white;
